@@ -1,3 +1,4 @@
 # Jay01
 first modify
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
